@@ -1,43 +1,50 @@
 <div align="center">
 
-# Hi, I'm zhudashuai17 👋
+# Zhu Haonan · 朱豪楠
 
-### AI Product · Product Builder
+### AI Product Manager · Product Builder
 
-I turn fuzzy ideas into testable AI products — from product framing and workflow design to prototypes and shipped experiences.
+**Product thinking × AI building**
 
-**从模糊想法到可验证产品。**
+I find real user friction, make the key trade-offs, and use AI to turn ideas into products people can actually try.
+
+[Portfolio](https://zhuhaonan.me) · [FirstGo](https://firstgo.xyz) · [SnapMind](https://snapmind.fun)
 
 </div>
 
 ---
 
-## What I build
+## About me
 
-- **AI-native products** that start with a real user problem, not a model demo
-- **Agent workflows** that turn complex tasks into clear, usable experiences
-- **Fast prototypes** that help teams learn early and ship with confidence
+我是朱豪楠，一名关注用户真实阻力的产品经理。既拆问题，也把方案做出来。
 
-> 我关注的不是把 AI 塞进产品，而是找到它真正改变用户体验和工作流的位置。
+I care about the point where product judgment meets hands-on building: understanding the problem, shaping the experience, prototyping quickly, and learning from something real.
 
-## Selected products
+## Selected work
 
-> Core product repositories are intentionally private. This profile shares product thinking, demos, and case-study-level details without exposing proprietary code, prompts, workflows, or business logic.
+### [FirstGo](https://firstgo.xyz)
 
-| Product | What it explores | Access |
-| --- | --- | --- |
-| **FirstGo** | An AI-first product explored across web, app, and WeChat mini-program prototypes | Closed source · product overview only |
-| **SnapMind** | A focused AI product experiment built from idea to usable prototype | Closed source · product overview only |
-| **Hiring Profile Agent** | How AI agents can support clearer, more structured recruiting workflows | Closed source · product overview only |
-| **Mahjong Scorekeeper** | A lightweight WeChat mini-program for fast, clear scorekeeping | Closed source · product overview only |
+**AI life exploration tool · AI 生活探索工具**
 
-## Open source
+从“帮用户迈出第一步”，演进到“帮用户发现真正想开始的事”。先降低发现和选择的阻力，再谈计划与执行。
 
-### [Serenity.skill](https://github.com/zhudashuai17/serenity-skill)
+[Try FirstGo ↗](https://firstgo.xyz) · [Read the case study ↗](https://zhuhaonan.me/?case=firstgo)
 
-A fan-made AI skill distilled from 4,740 public posts, designed to explore supply-chain bottlenecks and investment hypotheses with a consistent research framework. It includes monthly automated updates and a public website.
+### [SnapMind](https://snapmind.fun)
 
-[View repository](https://github.com/zhudashuai17/serenity-skill) · [Visit website](https://serenity-skill.vercel.app/)
+**AI personal knowledge workflow · AI 个人知识工作流**
+
+随手捕捉文字、图片和链接，由 AI 建议分类、用户决定如何归档，让收藏的信息在真正需要时重新出现。
+
+[Try SnapMind ↗](https://snapmind.fun) · [Read the case study ↗](https://zhuhaonan.me/?case=snapmind)
+
+### [zhuhaonan.me](https://zhuhaonan.me)
+
+**Product portfolio · 产品经理作品集**
+
+完整展示我的产品判断、设计过程、项目复盘与经历。不只展示界面，也展示每个方案背后的取舍。
+
+[Visit my portfolio ↗](https://zhuhaonan.me)
 
 ## How I work
 
@@ -45,14 +52,16 @@ A fan-made AI skill distilled from 4,740 public posts, designed to explore suppl
 discover → frame → prototype → test → ship
 
 
-**Product:** product strategy · user flows · experimentation · case studies  
+**Product:** product strategy · user research · user flows · experimentation  
 **Build:** TypeScript · JavaScript · Python · HTML/CSS  
-**AI:** LLM products · agent workflows · prompt systems · rapid prototyping
+**AI:** LLM products · agent workflows · rapid prototyping
+
+> The product repositories behind this work are intentionally private. Public demos and case studies share the experience and product thinking without exposing core code, prompts, workflows, or business logic.
 
 ---
 
 <div align="center">
 
-Building useful AI products, one real problem at a time.
+**Building useful AI products, one real problem at a time.**
 
 </div>
